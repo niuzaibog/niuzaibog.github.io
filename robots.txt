@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://niuzaibog.github.io/sitemap.xml 
